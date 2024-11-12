@@ -1,5 +1,2 @@
-# Meu estudo sobre git Hub 
-
-# estou  aprendendo na plataforma da Dio 
-
-
+# meu estudo sobre git 
+# e comandos feito  no curso da dio 
